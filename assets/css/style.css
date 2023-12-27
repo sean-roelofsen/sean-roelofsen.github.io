@@ -936,12 +936,12 @@ main {
   display: grid;
   grid-template-columns: 1fr;
   gap: 30px;
-  margin-bottom: 15px;
+  margin-bottom: 50px;
 }
 
 .project-item { 
   display: none; /* Keeps the item hidden initially */
-  margin-bottom: 50px; /* Add bottom margin for spacing between items */
+ /* margin-bottom: 30px; /* Add bottom margin for spacing between items */
 }
 
 
