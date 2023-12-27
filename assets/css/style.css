@@ -936,7 +936,7 @@ main {
   display: grid;
   grid-template-columns: 1fr;
   gap: 30px;
-  margin-bottom: 30px;
+  margin-bottom: 15px;
 }
 
 .project-item { display: none; }
