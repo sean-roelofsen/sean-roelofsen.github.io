@@ -939,7 +939,11 @@ main {
   margin-bottom: 15px;
 }
 
-.project-item { display: none; }
+.project-item { 
+  display: none; /* Keeps the item hidden initially */
+  margin-bottom: 50px; /* Add bottom margin for spacing between items */
+}
+
 
 .project-item.active {
   display: block;
