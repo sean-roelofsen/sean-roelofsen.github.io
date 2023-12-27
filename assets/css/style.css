@@ -941,7 +941,7 @@ main {
 
 .project-item { 
   display: none; /* Keeps the item hidden initially */
- /* margin-bottom: 30px; /* Add bottom margin for spacing between items */
+  margin-bottom: 30px; /* Add bottom margin for spacing between items */
 }
 
 
