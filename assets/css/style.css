@@ -1613,7 +1613,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     align-items: center;
     gap: 25px;
     padding-left: 5px;
-    margin-bottom: 30px;
+    margin-bottom: 60px;
   }
 
   .filter-item button {
